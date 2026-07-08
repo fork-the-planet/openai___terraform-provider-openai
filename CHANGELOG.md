@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.0](https://github.com/openai/terraform-provider-openai/compare/v0.1.0...v0.2.0) (2026-07-08)
+
+
+### Features
+
+* allow management of permissionless role ([4315b44](https://github.com/openai/terraform-provider-openai/commit/4315b447dea7d47847b86e6e0f8cba9f76cf63c2))
+* make API base URL configurable ([44a90f4](https://github.com/openai/terraform-provider-openai/commit/44a90f4a8ba33700c8b8bee2a7b0aa187fd3eff2))
+
 ## 0.1.0 (2026-06-26)
 
 
